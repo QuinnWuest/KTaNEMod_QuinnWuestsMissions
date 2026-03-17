@@ -418,7 +418,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - rgbMaze
+      - robotProgramming
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
