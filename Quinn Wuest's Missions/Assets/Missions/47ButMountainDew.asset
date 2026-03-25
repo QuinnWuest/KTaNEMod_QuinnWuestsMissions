@@ -33,31 +33,19 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - AngelHernandezModule
+      - 3DTapCodeModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - TentsModule
+      - AquariumModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - DecolourFlashModule
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - FindTheInvisibleCowModule
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - ChesswordModule
+      - AreaSplitNeedy
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -69,25 +57,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - WanderModule
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - DominosaModule
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - FittingInModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - TriconModule
+      - BulbmapsModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -99,7 +69,91 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - PolluxModule
+      - ChesswordModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - CyanButtonModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - DecolourFlashModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - DenialDisplaysModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - DominosaModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - EncryptionLingoModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Faulty14SegmentDisplayModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - FindTheInvisibleCowModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - FittingInModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - GhostModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - HaikuModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - LogicWheelModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - MayhemModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - NavigationDeterminationModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - NeutralButtonModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -135,33 +189,9 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - PseudocryptModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - SmallfontModule
+      - notTheScrew
     - Count: 1
       AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - GhostModule
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - TripleTraversalModule
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - EncryptionLingoModule
-    - Count: 1
-      AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
@@ -171,49 +201,19 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - Faulty14SegmentDisplayModule
+      - PolluxModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - NeutralButtonModule
+      - PseudocryptModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - 3DTapCodeModule
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - ShapeFillModule
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - SimonShiftsModule
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - ASquareModule
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - RuleOfThreeModule
-    - Count: 1
-      AllowedSources: 0
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - CyanButtonModule
+      - RecolourFlashModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -225,25 +225,73 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - WhiteButtonModule
+      - RubiksSlideModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - MayhemModule
+      - RuleOfThreeModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - notTheScrew
+      - ShapeFillModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - AquariumModule
+      - ShapesModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - SimonShiftsModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - SimonsSpiderModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - SlowMathModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - SmallfontModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - SwiftEyeTestModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - TentsModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - TriconModule
+    - Count: 1
+      AllowedSources: 0
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - TripleTraversalModule
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
@@ -251,73 +299,15 @@ MonoBehaviour:
       ModTypes:
       - typeRacer
     - Count: 1
-      AllowedSources: 2
+      AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - HaikuModule
+      - WanderModule
     - Count: 1
-      AllowedSources: 2
+      AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - NavigationDeterminationModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - RecolourFlashModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - DenialDisplaysModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - RubiksSlideModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - SlowMathModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - LogicWheelModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - MafiaModule
-      - PerplexingWiresModule
-      - BigCircle
-      - ColorMorseModule
-      - screw
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - TwisterModule
-      - PianoParadoxModule
-      - BlackoutModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - runonSentence
-      - SetTheory
-      - SettingSail
-      - offKeys
-      - midCircle
+      - WhiteButtonModule
   PacingEventsEnabled: 1
